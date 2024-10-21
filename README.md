@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
 <h3 align="center">An Android App Developer</h3>
 <!--<img src="https://i.gifer.com/VwDf.gif" align="right"></img> -->
