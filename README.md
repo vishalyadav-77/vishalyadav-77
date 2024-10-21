@@ -15,9 +15,9 @@
 
 - 📫 Contact me **vishalyadav15044@gmail.com**
 
-- 📄 My Resume link
+- 📄 My Resume: <a href="https://drive.google.com/file/d/1kYBwF6ubMy-zIK7AvxeWy_h6-YEp1K4q/view?usp=sharing"> Link</a>
 
-- ⚡ Fun fact **I am a Gymnast & Dancer**
+- ⚡ Fun fact **I am a state level Gymnast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
