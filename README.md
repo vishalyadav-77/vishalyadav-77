@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MongoDB, Kotlin, Flutter**
 
-- 👯 I’m looking to collaborate on **Medic Lens(Medicine App)**
-
 - 🤝 I’m looking for help with **Medic Lens(Medicine App)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishalyadav-77/](https://github.com/vishalyadav-77/)
@@ -17,7 +15,7 @@
 
 - 📫 Contact me **vishalyadav15044@gmail.com**
 
-- 📄 My Resume [here it is](here it is)
+- 📄 My Resume link
 
 - ⚡ Fun fact **I am a Gymnast & Dancer**
 
