@@ -7,7 +7,7 @@
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526e8thnb4vna2syy4rjoaehw8pibnwfe44r2dz38a&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right"></img>
 
 - 🔭 I’m currently working on **Taaza Khabar(News App)**
-- 🌱 I’m currently learning **MongoDB, Kotlin, Flutter**
+- 🌱 I’m currently learning **MongoDB, Flutter, IOS**
 - 🤝 I’m looking for help with **Medic Lens(Medicine App)**
 - 👨‍💻 All of my projects are available at [https://github.com/vishalyadav-77/](https://github.com/vishalyadav-77/)
 - 💬 Ask me about **Java, Android Development, UI/UX**
