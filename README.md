@@ -15,7 +15,7 @@
 - 📄 My Resume: <a href="https://drive.google.com/file/d/1kYBwF6ubMy-zIK7AvxeWy_h6-YEp1K4q/view?usp=sharing"> Link</a>
 - ⚡ Fun fact **I am a state level Gymnast**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vishal-yadav-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishal-yadav-work/" height="30" width="40" /></a>
 </p>
