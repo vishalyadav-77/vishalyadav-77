@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://github.com/vishalyadav-77/">**My Projects**</a>
 - 💬 Ask me about **Java, Android Development, UI/UX**
 - 📫 Contact me **vishalyadav15044@gmail.com**
-- 📄 My Resume: <a href="https://drive.google.com/file/d/1kYBwF6ubMy-zIK7AvxeWy_h6-YEp1K4q/view?usp=sharing](https://drive.google.com/file/d/1b6Xwug19-4eqtbmKImIyO8bAEU3PDe2f/view?usp=drive_link)"> Link</a>
+- 📄 My Resume: <a href="https://drive.google.com/file/d/1b6Xwug19-4eqtbmKImIyO8bAEU3PDe2f/view?usp=drive_link"> Link</a>
 - ⚡ Fun fact **I am a state level Gymnast**
 
 <h3 align="left">Connect with me here:</h3>
