@@ -6,10 +6,10 @@
 <!--<img src="https://i.gifer.com/VwDf.gif" align="right"></img> -->
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526e8thnb4vna2syy4rjoaehw8pibnwfe44r2dz38a&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right"></img>
 
-- 🔭 I’m currently working on <a href="https://github.com/vishalyadav-77/MedicLens">**Medic Lens**</a>
+- 👨‍💻 All of my projects are available at <a href="https://my-portfolio-gules-eight-56.vercel.app">**My PortFolio**</a>
+- 🔭 I’m currently working on <a href="https://github.com/vishalyadav-77/MedicLens">**Lovme**</a>
 - 🌱 I’m currently learning **MongoDB, Flutter, IOS**
 - 🤝 I’m looking for help with <a href="https://github.com/vishalyadav-77/MedicLens">**Medic Lens**</a>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/vishalyadav-77/">**My Projects**</a>
 - 💬 Ask me about **Java, Android Development, UI/UX**
 - 📫 Contact me **vishalyadav15044@gmail.com**
 - 📄 My Resume: <a href="https://drive.google.com/file/d/1b6Xwug19-4eqtbmKImIyO8bAEU3PDe2f/view?usp=drive_link"> Link</a>
