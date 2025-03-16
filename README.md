@@ -7,7 +7,7 @@
 <img src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9526e8thnb4vna2syy4rjoaehw8pibnwfe44r2dz38a&ep=v1_gifs_search&rid=200w.gif&ct=g" align="right"></img>
 
 - 👨‍💻 All of my projects are available at <a href="https://my-portfolio-gules-eight-56.vercel.app">**My PortFolio**</a>
-- 🔭 I’m currently working on <a href="https://github.com/vishalyadav-77/MedicLens">**Lovme**</a>
+- 🔭 I’m currently working on <a href="https://github.com/vishalyadav-77/FitCheq">**Fit Cheq**</a>
 - 🌱 I’m currently learning **MongoDB, Flutter, IOS**
 - 🤝 I’m looking for help with <a href="https://github.com/vishalyadav-77/MedicLens">**Medic Lens**</a>
 - 💬 Ask me about **Java, Android Development, UI/UX**
