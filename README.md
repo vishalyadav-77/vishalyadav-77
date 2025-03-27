@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://my-portfolio-gules-eight-56.vercel.app">**My PortFolio**</a>
 - 🔭 I’m currently working on <a href="https://github.com/vishalyadav-77/fitcheq.git">**Fit Cheq**</a>
-- 🌱 I’m currently learning **MongoDB, Flutter, IOS**
+- 🌱 I’m currently learning **Flutter and IOS**
 - 🤝 I’m looking for help with <a href="https://github.com/vishalyadav-77/MedicLens">**Medic Lens**</a>
 - 💬 Ask me about **Java, Android Development, UI/UX**
 - 📫 Contact me **vishalyadav15044@gmail.com**
