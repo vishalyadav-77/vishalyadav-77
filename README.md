@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Yadav</h1>
-<h3 align="center">An Android App Developer</h3>
+<h3 align="center">Android & Java Developer</h3>
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vishalyadav-77)
 
